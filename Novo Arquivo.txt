@@ -3,3 +3,7 @@ Novo Arquivo
 V.: 01.00
 
 Arquivo editado pela interface do Github
+
+Ver.: 2.0
+Mudanças realizadas no computador local
+
